@@ -12,7 +12,6 @@ why we are using 32MHz oscillator , why 52 decoupling capacitors are needed and 
 I faced many problems as the guide i am following is using KICAD 
 and i am more familiar with EasyEDA std , So the schematic footprint wasn't matching for Both RP2040 and SX1262 
 Although i managed to found it .Placed 2 decoupling capacitors one inductors and did the wiring between SX1262 and RP2040
-
 Timelapse = https://lapse.hackclub.com/timelapse/a3xEVcMzM3OZ
 
 **Total time spent: 2 hours and 5 minutes**
