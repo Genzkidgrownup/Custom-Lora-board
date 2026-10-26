@@ -14,4 +14,7 @@ and i am more familiar with EasyEDA std , So the schematic footprint wasn't matc
 Although i managed to found it .Placed 2 decoupling capacitors one inductors and did the wiring between SX1262 and RP2040
 Timelapse = https://lapse.hackclub.com/timelapse/a3xEVcMzM3OZ
 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/98ffc4e7-a169-4546-8999-98d6973a9a5f" />
+
+
 **Total time spent: 2 hours and 5 minutes**
