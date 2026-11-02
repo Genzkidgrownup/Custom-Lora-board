@@ -112,3 +112,37 @@ as usual 30 mins counting extra for network issue.You know today i needed to rev
 
 
 **Total time spent: 3 hours and 30 minutes**
+
+
+
+# 1st november: Finalized PCB with 0 DRC
+
+First i opened my EasyEDA project and started from where I left 
+I started of by fixing the RP2040 placement and wiring issue as there i couldn't wire 1v1 rail vCC and other rails 
+I cleaned that Part routed it cleanly while shifting the resistors and one Decop caps a bit lower 
+Than in the guide i realized that it was written to keep the DC regulator trace a bit more 
+but what was DC regulator i didnt know that cause there was no IC named liked that obviously i knew it was with RP2040 pins or something like that but which one 
+I googled and researched so it says the VREG_OUT pin is the DC regulator 
+and as it is the DC-regulator i need to route that line with wires of more than 0.4mm width so i routed the 1v1 trail as its the VREG_Out pin and finalized it 
+After that I run DRC it was not 0 some Vias didn't have enough GAP so i managed that and give the gap it required .
+then i placed the GND fencing VIAS across the RF signal trace and then put Vias through the Whole boarddddddddd.
+you know what is most important in PCB 
+SIlkscreen ARTttttttttttttttttttttttttt
+So i did it and it was so fun to find the best stickers for my boarddd
+NOW i realized when i will actually build the board i will be totally messed up cause none of the components have their prefixes placed correctly so what i did is i searched that if there was a auto tool or something like that and it says EASYEDA pro has it so i downloaded it and loaded my project and searched for the tool took me a bit like 10-15mins but yea got it 
+Then i used it and generated my gerber and source files , after it was done.
+I rechecked DRC and it was 2 
+which was intentional cause the Charging port type C holes dosn't have clearance enough but yes in blueprint guide it was mentioned that it is not a problem you can generate gerber there won't be any problem so yea i generated it and gathered all the files needed.
+I finally did my Dream build Lora board in a week 
+Looks awesome now it's time to get my BOM and submitting the project yayaya
+timelapse = https://lapse.hackclub.com/timelapse/QMmVImql6nhg
+<img width="1895" height="1072" alt="image" src="https://github.com/user-attachments/assets/51e6129d-caa4-43c8-b8a9-50d3c2468130" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e6a58192-b12e-4530-aa13-2d056f5987c6" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/755c4cb4-7810-4aac-850c-a6369023cb7c" />
+<img width="1877" height="1073" alt="image" src="https://github.com/user-attachments/assets/52dab28d-12e2-46e1-a5e8-60cfbe789353" />
+
+
+**Total time spent: 2 hours and 47 minutes**
+
+
+**Total time spent: 2 hours and 47 minutes**
