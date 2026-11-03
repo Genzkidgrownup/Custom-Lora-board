@@ -188,5 +188,9 @@ yea some of them werent available but i used the alternatives and changed my PCB
 Now i am gonna start my next session where i finally gonna make a clear BOM , a Firmware and then ship the project 
 Timelapse = https://lapse.hackclub.com/timelapse/3ow7pHAA3Coj
 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/1e893aa3-8524-4289-bd6f-0c2f633050f8" /> <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b0059db6-f802-4901-8a5e-6d3f8a96b965" />
+
+
+
 
 **Total time spent: 4 hours and 10 minutes**
