@@ -80,13 +80,31 @@ This board is a custom designed wireless communication module for long range app
  
 ### MAKE sure to read the Journal.MD to know my journey Thank you.
 
+## Total physical components used:
 
+| Designator | Component Name / Part Number | Description |
+| :--- | :--- | :--- |
+| **U6** | RP2040 | Microcontroller |
+| **U5** | SX1262 | Radio transceiver |
+| **U2** | W25Q128JVSIQ | Flash memory |
+| **U7** | PE4259 / PE4239A-Z | RF switch |
+| **U10** | AP2112K-3.3TRG1 | Voltage regulator |
+| **U9** | UJ20-C-H-G-MSMT-4B-P16-TR | USB-C connector |
+| **U1** | 12 MHz Crystal | System clock |
+| **X1** | 32 MHz Crystal | Radio clock |
+| **L3** | 0900FM15D0039001E | RF balun |
+| **L5** | 1 k$\Omega$ (MMZ1005S102ETD25) | Ferrite bead |
+| **L1, L2, L4** | 15uH, 47nH, 9.1nH | Inductors |
+| **U3, U4** | Tactile Switches (TS-1071AD) | Buttons |
+| **H1** | 1x8 Header Pin Strip | Header |
+| **C1 – C33** | Decoupling Capacitors (0402) | Capacitors |
+| **R1 – R8** | Resistors (0402) | Resistors |
 
-## License
-This project is licensed under **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial). 
-You are free to build and modify this board for personal use, but commercial production or selling of this project is strictly prohibited.
 
 # Bill of Materials (BOM)
+
+> Physical components won't match with this BOM due to MOQ(minimum order quantity)
+> and shipment charges are high due to DHL(express) which is only available in INDIA from mouser
 
 | QTY | NAME | STATUS | VENDOR | PRICE EACH (USD) | TOTAL PRICE (USD) | LINK |
 |---|---|---|---|---|---|---|
@@ -122,3 +140,8 @@ You are free to build and modify this board for personal use, but commercial pro
 | 2 | 32Mhz crystal | DONE | Mouser | $1.2455 | $2.49 | [Link](https://www.mouser.in/en/ProductDetail/ABRACON/ABM11AIG-32.000MHZ-4Z-T3?qs=gG6m684uYP6ePIn58i2qHg%3D%3D) |
 | 1 | **Shipping Charges** | **DONE** | **Courier** | **$24.00** | **$24.00** | **N/A** |
 | - | **GRAND TOTAL (Components + Shipping)** | **FINAL** | **N/A** | **N/A** | **$91.12** | **N/A** |
+
+
+## License
+This project is licensed under **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial). 
+You are free to build and modify this board for personal use, but commercial production or selling of this project is strictly prohibited.
