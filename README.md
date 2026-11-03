@@ -38,6 +38,35 @@ WELL IT ISSSSSSSSSSSSSSSS
 **SILKSCREEN(BEST PART):** HAS random ahh stickers which i love and also has a TCA sticker(where i started learning about robotics) .IT also has my dream company's logo "AVERO"
 
 
+# How its works
+
+This board is a custom designed wireless communication module for long range applications. It is based on the dual-core Raspberry Pi RP2040 microcontroller and SX1262 LoRa transceiver.
+
+
+- Power & Connectivity. 5V power and data thru USB-C port. An AP2112K-3.3 LDO regulator efficiently steps this down to a stable 3.3V for the system.
+
+- Processing & Memory - The RP2040 is the brain. The RP2040 requires external memory, so it’s coupled with a W25Q16JV SPI Flash chip to store your firmware.
+
+- Long-Range RF The SX1262 provides sub-GHz LoRa wireless communication. The RF path is controlled by a PE4259 RF switch and a Johanson Balun to condition the signal for the antenna.
+
+- Internal Routing: The RP2040 uses its SPI busses to talk to the Flash memory and the SX1262 LoRa chip.
+
+
+```text
+[ USB-C ] ──5V──► [ AP2112K-3.3 LDO ] ──3.3V──┐
+                                              ▼
+[ W25Q16 Flash ] ◄──SPI── [ RP2040 ] ──SPI──► [ SX1262 LoRa ]
+                        (Main Brain)                │
+                                                    ▼
+                                            [ PE4259 Switch ]
+                                                    │
+                                                    ▼
+                                                [ Antenna ]
+                                                    📡
+
+```
+
+
 ## SCHEMATIC DIAGRAM:
 
 <img width="50%" height="547" alt="image" src="https://github.com/user-attachments/assets/b62694c8-e795-47f1-be40-eeea6bb46e99" />
