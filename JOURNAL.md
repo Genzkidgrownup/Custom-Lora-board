@@ -144,5 +144,3 @@ timelapse = https://lapse.hackclub.com/timelapse/QMmVImql6nhg
 
 **Total time spent: 2 hours and 47 minutes**
 
-
-**Total time spent: 2 hours and 47 minutes**
