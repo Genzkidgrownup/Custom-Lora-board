@@ -144,7 +144,7 @@ timelapse = https://lapse.hackclub.com/timelapse/QMmVImql6nhg
 
 **Total time spent: 2 hours and 47 minutes**
 
-# 1rd november: Maybe i can't build my Lora board
+# 3rd november: Maybe i can't build my Lora board
 
 
 So as usual everything was done from Silckscreen to generating gerbers 
@@ -193,4 +193,22 @@ Timelapse = https://lapse.hackclub.com/timelapse/3ow7pHAA3Coj
 
 
 
+
+
 **Total time spent: 4 hours and 10 minutes**
+
+# 3rd november: FInalizing BOM and made firmware
+
+Here i made my finalized BOM with shipping charges and other things 
+i changed the 1nf 0603 cap to 0402 which I previously changed to 0603 as it was unavailable in other websites but i found it Mouser 
+I then made the firmware got every prices in BOM ,made my readme better with information 
+also confirmed everything uploaded all the source files needed and all .
+and finalized it 
+Finally i can rest 
+But yes i will misss these sleepless nights 
+Timelapse = https://lapse.hackclub.com/timelapse/9Cm7xMXQHFSg
+
+<img width="1235" height="872" alt="image" src="https://github.com/user-attachments/assets/afc3f056-efb4-4dd7-b5a8-9739d2617972" />
+
+**Total time spent: 1 hours and 56 minutes**
+
