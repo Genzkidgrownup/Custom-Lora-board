@@ -72,7 +72,13 @@ This board is a custom designed wireless communication module for long range app
 <img width="50%" height="547" alt="image" src="https://github.com/user-attachments/assets/b62694c8-e795-47f1-be40-eeea6bb46e99" />
 
 
-# MAKE sure to read the Journal.MD to know my journey Thank you.
+## Firmware
+>The firmware is just barebones
+>which will be transmitting Touch signal and led will blink if received in another Lora board  
+>Once i get the Lora board i will change the code significantly and make the code better with more sensor following up
+>TILL then you can checkout the code i have provided  
+ 
+### MAKE sure to read the Journal.MD to know my journey Thank you.
 
 
 
