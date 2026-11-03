@@ -144,3 +144,49 @@ timelapse = https://lapse.hackclub.com/timelapse/QMmVImql6nhg
 
 **Total time spent: 2 hours and 47 minutes**
 
+# 1rd november: Maybe i can't build my Lora board
+
+
+So as usual everything was done from Silckscreen to generating gerbers 
+i thought i will make the BOM ready and git push it 
+But who knew that it will be one of the nightmares i will encounter 
+I assigned LCSC parts and got my BOM.csv file 
+i uploaded it in LCSC to make a final billing order with LCSC and submit my project 
+Then it showed me the bill $71 which was insaneeeeeeeeee 
+like $71 in which $48 is just for shipping like what the hellllll.
+Maybe hackclub would fund that that's not a problem but 
+The thing is who will pay those heavy taxes as hackclub never pays that 
+also even if i order from LCSC half of the parts where not available like 32MHz crystal some decoup caps and resistors 
+like howw why isnt it available in LCSC also then i took a break and went to LCSCINDIA website to find the parts 
+BOOM: 8 parts out of stock how the hell will i get those things 
+Well luckily i Was in a lockin huddle hosted in #half-life by me
+like as my daily schedule i have to do it. Never though in hardware help huddle someone will help me instead but someone did 
+his name is Slackbot (like not the real one,his username is only slackbot),everyday he rots my brain but today he helped me a lot 
+he said that give me the components part number and i will find an alternative and he did 
+He found me several of them 
+What our plan was to order things from LCSC india so i dont need to pay taxes but the ones which are not availablee like not in any local website we will order from LCSC
+so yea that was our plan we kept on searching through all the stuffs i changed some components stilll we couldnt find some specfic things neither in LCSC nor in any other website 
+Yesterday night i thought leave it i can't build all i can do is to virtually design it 
+I was very sad from morning 
+But yea somehow like somehow i had hopes and said to myself that maybe tomorrow I will put one last effort towards it and search every part in local and get things 
+yes this felt very dreamy but the only thing i like in myself that i dont give up 
+I paused my lapse 
+went to sleep with my sad heart .
+Tomorrow morning ,
+I opened EasyEDA std. opened my files 
+I was ready with 4-5 different websites and gemini to assist me if i cant find any component and use it's similar version 
+Well at starting i found almost all caps in robu.in 
+But 2 of the capacitors were impossible to find out 1nF 0402 capacitors , i was so stressed out and i searched almost every website but yea it was not available anywhere so i shifted to 0603(updated my PCB and schematic ) and yea i got some 
+next problem i faced was 10uF 0402 capacitor , not even a single variant was available like 0402 ,0603 literally none 
+so what i did is i used 2.2uF x 5 in parallel where ever 10uF was needed and yea i got 2.2uF  resistors 
+Next capacitors was done .
+now the main challenge inductors 
+Not even a single inductor i got in any website so yea i felt very hopeless untill i tried mouser 
+which was a life savour literally every component like every component which was not available i got all of them there 
+I felt so happy
+yea some of them werent available but i used the alternatives and changed my PCB that way 
+Now i am gonna start my next session where i finally gonna make a clear BOM , a Firmware and then ship the project 
+Timelapse = https://lapse.hackclub.com/timelapse/3ow7pHAA3Coj
+
+
+**Total time spent: 4 hours and 10 minutes**
