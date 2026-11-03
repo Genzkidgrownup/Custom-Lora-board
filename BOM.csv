@@ -1,4 +1,5 @@
 QTY,NAME,STATUS,VENDOR,LINK,PRICE_EACH_USD,TOTAL_PRICE_USD
+1,PCB,DONE,https://www.lioncircuits.com/quote,$28.07,$28.07
 30,100nF 0402,DONE,robu.in,https://robu.in/product/0402b104j250nt-fh-25v-100nf-x7r%C2%B15-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/,$0.0081,$0.24
 72,15pF 50V 0402 SMD,DONE,robu.in,https://robu.in/product/15-pf-50v-0402-smd-multilayer-ceramic-capacitors-cc0402jrnpo9bn150-yageo-pack-of-20/,$0.0034,$0.24
 76,0.1uf Capacitor SMD:C 0402,DONE,robu.in,https://robu.in/product/1uf-capacitor-smdc-0402-pack-of-50/,$0.0032,$0.25
@@ -29,4 +30,4 @@ QTY,NAME,STATUS,VENDOR,LINK,PRICE_EACH_USD,TOTAL_PRICE_USD
 2,AP2112K-3.3TRG1 -USB step down,DONE,Mouser,https://www.mouser.in/en/ProductDetail/Diodes-Incorporated/AP2112K-3.3TRG1?qs=x6A8l6qLYDDPYHosCdzh%2FA%3D%3D,$0.3114,$0.62
 2,32Mhz crystal,DONE,Mouser,https://www.mouser.in/en/ProductDetail/ABRACON/ABM11AIG-32.000MHZ-4Z-T3?qs=gG6m684uYP6ePIn58i2qHg%3D%3D,$1.2455,$2.49
 1,Shipping Charges,DONE,Courier / Shipping,N/A,$24.00,$24.00
--,GRAND TOTAL (Components + Shipping),FINAL,N/A,N/A,N/A,$63.05
+-,GRAND TOTAL (Components + Shipping),FINAL,N/A,N/A,N/A,$91.12
