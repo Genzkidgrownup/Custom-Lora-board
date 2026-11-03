@@ -1,0 +1,32 @@
+QTY,NAME,STATUS,VENDOR,LINK,PRICE_EACH_USD,TOTAL_PRICE_USD
+30,100nF 0402,DONE,robu.in,https://robu.in/product/0402b104j250nt-fh-25v-100nf-x7r%C2%B15-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/,$0.0081,$0.24
+72,15pF 50V 0402 SMD,DONE,robu.in,https://robu.in/product/15-pf-50v-0402-smd-multilayer-ceramic-capacitors-cc0402jrnpo9bn150-yageo-pack-of-20/,$0.0034,$0.24
+76,0.1uf Capacitor SMD:C 0402,DONE,robu.in,https://robu.in/product/1uf-capacitor-smdc-0402-pack-of-50/,$0.0032,$0.25
+32,16V 470nF X7R±10% 0402,DONE,robu.in,https://robu.in/product/grm155r71c474ke01d-murata-16v-470nf-x7r%C2%B110-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/,$0.0078,$0.25
+54,47 pF 50V 0402,DONE,robu.in,https://robu.in/product/47-pf-50v-0402-smd-multilayer-ceramic-capacitors-cc0402jrnpo9bn470-yageo-pack-of-20/,$0.0046,$0.25
+20,39pF 25V 0402,DONE,robu.in,https://robu.in/product/mc0402n390k250ct-murata-smd-multilayer-ceramic-capacitor-39-pf-25-v-0402-1005-metric-%c2%b1-10-c0g-np0-mc/,$0.0163,$0.33
+60,3.3 pF 50V 0402,DONE,robu.in,https://robu.in/product/0402hq3r3c500nt-fh-smd-multilayer-ceramic-capacitor-3-3-pf-50-v-0402-1005-metric-%25c2%25b1-0-25pf-c0g/,$0.0079,$0.47
+2,1nF 0402,DONE,Mouser,https://www.mouser.in/en/ProductDetail/Vishay/GA0402Y102JXBAC31G?qs=sGAEpiMZZMukHu%252BjC5l7Yc%252Bu52NmWc3ewp4gumc%2FrSw%3D,$0.5269,$1.05
+96,2.2uF 0402,DONE,robu.in,https://robu.in/product/0402x225m100nt-fh-10v-2-2uf-x5r%C2%B120-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/,$0.0025,$0.24
+4,male header,DONE,robu.in,https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/,$0.1078,$0.43
+2,15uH L0402,DONE,Mouser,https://www.mouser.in/en/ProductDetail/Murata-Electronics/LQW15DN150M00D?qs=55YtniHzbhAjiaw66ArnFg%3D%3D&mgh=1 &srsltid=AYCX9vJbxTn3UMuN35eNfOJhm8NzIIzqOlmySslTP1XtAUo52K6aBNrLwEg,$1.8204,$3.64
+2,0402 47nH,DONE,Mouser,https://www.mouser.in/en/ProductDetail/Wurth-Elektronik/744916147?qs=AQlKX63v8Rv4%2FlYOhABo6w%3D%3D,$0.8862,$1.77
+2,0900FM15D0039001E Balun,DONE,Mouser,https://www.mouser.in/en/ProductDetail/Johanson-Technology/0900FM15D0039001E?qs=jRuttqqUwMQquGokVtFFxg%3D%3D,$0.5629,$1.13
+16,9.1nH L0402,DONE,robu.in,https://robu.in/product/lqg15hn9n1j02d-murata-electronics-500ma-9-1nh-%25c2%25b15-270m%25cf%2589-0402-inductors-smd-rohs/,$0.0176,$0.28
+2,1k ohm L0402,DONE,Mouser,https://www.mouser.in/en/ProductDetail/TDK/MMZ1005S102ETD25?qs=pvNC7ksEVIc%252B7Q4Rkl1Srg%3D%3D,$0.2635,$0.53
+126,1k ohm R0402,DONE,robu.in,https://robu.in/product/1k-resistor-smdr-0402-pack-of-50/,$0.0019,$0.24
+4,27.4ohm 0402,DONE,Mouser,https://www.mouser.in/en/ProductDetail/YAGEO/RC0402FR-0727R4L?qs=NmlBeBNZel4DuUWv%2FB%2FbJA%3D%3D&srsltid=AYCX9vI73qRYJkKNfzzJc4y194gnRH_p5G1iuN-JKkCjYB4hdvLNffM6,$0.1198,$0.48
+100,10k ohm 0402,DONE,robu.in,https://robu.in/product/10k-resistor-smdr-0402-pack-of-50/,$0.0040,$0.40
+314,100ohm 0402,DONE,robu.in,https://robu.in/product/rc0402jr-07100rl-yageo-res-thick-film-0402-100-ohm-5-0-063w1-16w-%25c2%25b1100ppm-c-pad-smd-t-r/,$0.0008,$0.26
+144,5.1k ohm resistor,DONE,robu.in,https://robu.in/product/rc0402fr-075k1l-yageo-smd-chip-resistor/,$0.0017,$0.24
+4,12MHz Surface Mount Crystal,DONE,robu.in,https://robu.in/product/cm4012m00008001-huaxindianzi/,$0.2156,$0.86
+2,W25Q128JVSIQ flash 16mb memory chip,DONE,Mouser,https://www.mouser.in/en/ProductDetail/Winbond/W25Q128JVSIQ-TR?qs=qSfuJ%252Bfl%2Fd7vTyLA9kNdGw%3D%3D,$6.5868,$13.17
+4,switches,DONE,robu.in,https://robu.in/product/tsa010a2026b-bzcn-3mm-2mm-50ma-round-button-standing-paste-3-9mm-260gf-12v-smd-tactile-switches-rohs/?gad_source=1&gad_campaignid=20387462343&gbraid=0AAAAADvLFWdgDbSGx8cmBT-QoLWgHfDvZ&gclid=CjwKCAiAqabXBhBUEiwAw_SQpdBN3bOYq-6_ZkSPhILASOYaz_3P_FDhq3GD-J8oSo9Oig68zwbUdRoCwhYQAvD_BwE-,$0.0479,$0.19
+2,RP2040,DONE,robu.in,https://robu.in/product/raspberry-pi-rp2040/?gad_source=1&gad_campaignid=19974686076&gbraid=0AAAAADvLFWfO5PFgCpx86kPeIgn0WZ05q&gclid=CjwKCAiAqabXBhBUEiwAw_SQpakJPyyrqmymY3vTc4WhUxVc8XyyVGoQP-nlHrLa1TL7XryXjT6CdhoCgSwQAvD_BwE,$0.7665,$1.53
+2,RF-switch - PE4239A-Z,DONE,Mouser,https://www.mouser.in/en/ProductDetail/pSemi/PE4239A-Z?qs=Znm5pLBrcAIEDuLmPIlOmw%3D%3D,$2.2515,$4.50
+2,Lora Antenna 915mhz,DONE,robu.in,https://robu.in/product/lora-antenna-915mhz/,$0.9461,$1.89
+2,USB-C-16P-,DONE,Mouser,https://www.mouser.in/en/ProductDetail/Same-Sky/UJ20-C-H-G-MSMT-4B-P16-TR?qs=sGAEpiMZZMvlX3nhDDO4ACjgJoffZvcbOspL7D5BzU8%3D,$0.5389,$1.08
+2,AP2112K-3.3TRG1 -USB step down,DONE,Mouser,https://www.mouser.in/en/ProductDetail/Diodes-Incorporated/AP2112K-3.3TRG1?qs=x6A8l6qLYDDPYHosCdzh%2FA%3D%3D,$0.3114,$0.62
+2,32Mhz crystal,DONE,Mouser,https://www.mouser.in/en/ProductDetail/ABRACON/ABM11AIG-32.000MHZ-4Z-T3?qs=gG6m684uYP6ePIn58i2qHg%3D%3D,$1.2455,$2.49
+1,Shipping Charges,DONE,Courier / Shipping,N/A,$24.00,$24.00
+-,GRAND TOTAL (Components + Shipping),FINAL,N/A,N/A,N/A,$63.05
