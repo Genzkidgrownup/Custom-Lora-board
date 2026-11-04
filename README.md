@@ -97,7 +97,7 @@ This board is a custom designed wireless communication module for long range app
 | **L1, L2, L4** | 15uH, 47nH, 9.1nH | Inductors |
 | **U3, U4** | Tactile Switches (TS-1071AD) | Buttons |
 | **H1** | 1x8 Header Pin Strip | Header |
-| **C1 – C33** | Decoupling Capacitors (0402) | Capacitors |
+| **C1 – C25** | Decoupling Capacitors (0402) and two (0603) | Capacitors |
 | **R1 – R8** | Resistors (0402) | Resistors |
 
 
