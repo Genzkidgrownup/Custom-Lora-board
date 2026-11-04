@@ -226,3 +226,17 @@ Timelapse = https://lapse.hackclub.com/timelapse/TSQ1-fvfo7bm
 
 
 **Total time spent: 1 hours and 10 minutes**
+
+# 5th november: I am broke
+
+So i just got to know that Hackclub dosnt pays custom but as you wont be knowing in India customs are like insane Most likely 200% of total bill. But i really want to make the lora board not just make it and leave it with the forge coins .My heart do  wants to see how it transmits the signals in this session i again researched through many websites in India locally available and make my BOM from 91$ to 48$ which is incredibyly low .I hope hackclub understands how much i really want to build these things I want to do .From a bill of over 3000rs or  $31.65 USD i made it to just into $0.5 is insane . I just need a part of $0.5 from mouser and i need to pay around $14 when it arrives in India .I feel so hurt but i need to do it if it was 31$ then i would have need to pay $50 around for Customs and charges 
+I donno how will i arrange that $14 but lets see i hope i could get money to pay that from HCB but as it violates laws I cant
+From my side i tried my best to lower the price of everything . I hope it happens best i have raised many tickets in #forge-help .If someone answers it will really help me 
+Whatever it is 
+Now its time to say this project bye 
+I hope this will be my last journal > I spend more than 1hrs 30mins but lapse only recorded 50mins or something so adding that time 
+Timelapse = https://lapse.hackclub.com/timelapse/7t59Urt1Tlwv
+
+
+**Total time spent: 1 hours and 30 minutes**
+
