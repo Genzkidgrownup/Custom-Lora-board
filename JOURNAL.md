@@ -236,6 +236,7 @@ Whatever it is
 Now its time to say this project bye 
 I hope this will be my last journal > I spend more than 1hrs 30mins but lapse only recorded 50mins or something so adding that time 
 Timelapse = https://lapse.hackclub.com/timelapse/7t59Urt1Tlwv
+<img width="1912" height="1067" alt="image" src="https://github.com/user-attachments/assets/4e287f1b-f960-4d97-b4c5-e95abb2d3f2a" />
 
 
 **Total time spent: 1 hours and 30 minutes**
