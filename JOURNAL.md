@@ -212,3 +212,17 @@ Timelapse = https://lapse.hackclub.com/timelapse/9Cm7xMXQHFSg
 
 **Total time spent: 1 hours and 56 minutes**
 
+
+# 5th november: Made some major changes
+
+Here after submitting i realized the 2.2uF rail of 10 caps can produce high noise although i had GND Vias around yea but yea to play 
+safe i changed it to 10uF which was available in mouser as i didnt searched that website for 10uF i thought it maybe available and it was correct 
+I found 4V ones but the rating was too low , i searched a lot then i got the 16V ones so yea i added that in BOM made changes in BOM changed the readme BOM and physical components secton.
+I changed the PCB deleted all the 2.2uF caps and replaced them with 10uF ones and as i made changes i realized my timelapse got somehow stopped as it does so I lost 17 minutes there.
+I generated gerber refixed the prefixes and silkscreen a bit then pour COpper ground Planes  and got the schematic file 
+after that I exported the 3D files and gitpush all . 
+Timelapse = https://lapse.hackclub.com/timelapse/TSQ1-fvfo7bm
+<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/3ee1a932-10af-4e5d-ab3b-b7bcd50b95a1" /> <img width="502" height="668" alt="image" src="https://github.com/user-attachments/assets/f511d1d7-171c-4745-a3e0-da28d10937f6" />
+
+
+**Total time spent: 1 hours and 10 minutes**
