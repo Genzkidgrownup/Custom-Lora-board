@@ -13,7 +13,8 @@ WELL IT ISSSSSSSSSSSSSSSS
 
 ## PROJECT SHOWCASE:
 <img width="35%" height="1078" alt="image" src="https://github.com/user-attachments/assets/e7cc7e0a-1171-401c-937c-4365303467ee" /> <img width="35%" height="1078" alt="image" src="https://github.com/user-attachments/assets/773f2c48-ca22-4b5f-b7b5-c8886b334ad3" /> 
-<img width="35%" height="798" alt="image" src="https://github.com/user-attachments/assets/3d120653-3ace-4ac7-82c7-d12c23b7e12d" /> <img width="35%" height="847" alt="image" src="https://github.com/user-attachments/assets/69c8f671-19a1-4a81-9688-a0f5b9b8e6d7" />
+<img width="35%" height="796" alt="image" src="https://github.com/user-attachments/assets/3d5d4d1f-0fa9-4032-b5c9-ab1c0e65a5b3" /> <img width="35%" height="786" alt="image" src="https://github.com/user-attachments/assets/5c728a19-fde5-4b36-88db-7be6d927d5dc" />
+
 
 ## PCB specifications:
 
@@ -69,7 +70,8 @@ This board is a custom designed wireless communication module for long range app
 
 ## SCHEMATIC DIAGRAM:
 
-<img width="50%" height="547" alt="image" src="https://github.com/user-attachments/assets/b62694c8-e795-47f1-be40-eeea6bb46e99" />
+<img width="1057" height="737" alt="image" src="https://github.com/user-attachments/assets/cf31f455-4841-4bc7-bc78-7c0bd2f8db83" />
+
 
 
 ## Firmware
