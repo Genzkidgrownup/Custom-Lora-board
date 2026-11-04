@@ -95,7 +95,7 @@ This board is a custom designed wireless communication module for long range app
 | **U1** | 12 MHz Crystal | System clock |
 | **X1** | 32 MHz Crystal | Radio clock |
 | **L3** | 0900FM15D0039001E | RF balun |
-| **L5** | 1 k$\Omega$ (MMZ1005S102ETD25) | Ferrite bead |
+| **L5** | 1k Ohm(MMZ1005S102ETD25) | Ferrite bead |
 | **L1, L2, L4** | 15uH, 47nH, 9.1nH | Inductors |
 | **U3, U4** | Tactile Switches (TS-1071AD) | Buttons |
 | **H1** | 1x8 Header Pin Strip | Header |
