@@ -108,41 +108,42 @@ This board is a custom designed wireless communication module for long range app
 > Physical components won't match with this BOM due to MOQ(minimum order quantity)
 > and shipment charges are high due to DHL(express) which is only available in INDIA from mouser
 
-| QTY | NAME | STATUS | LINK | PRICE_EACH | CURRENCY | TOTAL_PRICE |
-|---:|:---|:---|:---|---:|:---|---:|
-| 1 | PCB | DONE | [LionCircuits](https://www.lioncircuits.com/quote) | $28.07 | USD | $28.07 |
-| 30 | 100nF 0402 | DONE | [Robu.in](https://robu.in/product/0402b104j250nt-fh-25v-100nf-x7r%C2%B15-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/) | ₹0.68 | INR | ₹20.40 |
-| 72 | 15pF 50V 0402 SMD | DONE | [Robu.in](https://robu.in/product/15-pf-50v-0402-smd-multilayer-ceramic-capacitors-cc0402jrnpo9bn150-yageo-pack-of-20/) | ₹0.28 | INR | ₹20.16 |
-| 76 | 0.1uf Capacitor SMD:C 0402 | DONE | [Robu.in](https://robu.in/product/1uf-capacitor-smdc-0402-pack-of-50/) | ₹0.27 | INR | ₹20.52 |
-| 32 | 16V 470nF X7R±10% 0402 | DONE | [Robu.in](https://robu.in/product/grm155r71c474ke01d-murata-16v-470nf-x7r%C2%B110-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/) | ₹0.65 | INR | ₹20.80 |
-| 54 | 47 pF 50V 0402 | DONE | [Robu.in](https://robu.in/product/47-pf-50v-0402-smd-multilayer-ceramic-capacitors-cc0402jrnpo9bn470-yageo-pack-of-20/) | ₹0.38 | INR | ₹20.52 |
-| 20 | 39pF 25V 0402 | DONE | [Robu.in](https://robu.in/product/mc0402n390k250ct-murata-smd-multilayer-ceramic-capacitor-39-pf-25-v-0402-1005-metric-%c2%b1-10-c0g-np0-mc/) | ₹1.36 | INR | ₹27.20 |
-| 60 | 3.3 pF 50 0402 | DONE | [Robu.in](https://robu.in/product/0402hq3r3c500nt-fh-smd-multilayer-ceramic-capacitor-3-3-pf-50-v-0402-1005-metric-%25c2%25b1-0-25pf-c0g/) | ₹0.66 | INR | ₹39.60 |
-| 2 | 1nF 0402 | DONE | [Sharvi](https://sharvielectronics.com/product/1nf-1000pf-50v-capacitor-5-tolerance-cc0402krx7r9bb102-0402-package/) | ₹1.36 | INR | ₹2.72 |
-| 4 | 10uF 0402 | DONE | [Sharvi](https://sharvielectronics.com/product/10uf-50v-capacitor-10-tolerance-0402-package/) | ₹3.25 | INR | ₹13.00 |
-| 4 | male header | DONE | [Robu.in](https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/) | ₹9.00 | INR | ₹36.00 |
-| 2 | 15uH L0402 | DONE | [Sharvi](https://sharvielectronics.com/product/mlz1608n150lt000-15-%c2%b5h-250ma-shielded-multilayer-inductor-with-%c2%b120-tolerance-0603-package/) | ₹6.45 | INR | ₹12.90 |
-| 2 | 0402 47nH | DONE | [Sharvi](https://sharvielectronics.com/product/lqw15an47nj00d-47nh-210ma-power-inductor-with-%c2%b15-tolerance-0402-package/) | ₹6.95 | INR | ₹13.90 |
-| 2 | 0900FM15D0039001E Balun | DONE | [Mouser](https://www.mouser.in/en/ProductDetail/Johanson-Technology/0900FM15D0039001E?qs=jRuttqqUwMQquGokVtFFxg%3D%3D) | ₹47.00 | INR | ₹94.00 |
-| 16 | 9.1nH L0402 | DONE | [Robu.in](https://robu.in/product/lqg15hn9n1j02d-murata-electronics-500ma-9-1nh-%25c2%25b15-270m%25cf%2589-0402-inductors-smd-rohs/) | ₹1.47 | INR | ₹23.52 |
-| 2 | 1k ohm L0402 | DONE | [Sharvi](https://sharvielectronics.com/product/1k-ohm-350ma-100-mhz-ferrite-beads-blm15ax102sn1d-0402-package/) | ₹22.00 | INR | ₹44.00 |
-| 126 | 1k ohm R0402 | DONE | [Robu.in](https://robu.in/product/1k-resistor-smdr-0402-pack-of-50/) | ₹0.16 | INR | ₹20.16 |
-| 300 | 27.4ohm 0402 | DONE | [Robu.in](https://robu.in/product/rc0402fr-0727r4l-yageo-62-5mw-thick-film-resistors-50v-%25c2%25b1100ppm-%25e2%2584%2583-%25c2%25b11-27-4%25cf%2589-0402-chip-resistor-surface-mount-rohs/) | ₹0.08 | INR | ₹24.00 |
-| 100 | 10k ohm 0402 | DONE | [Robu.in](https://robu.in/product/10k-resistor-smdr-0402-pack-of-50/) | ₹0.33 | INR | ₹33.00 |
-| 314 | 100ohm 0402 | DONE | [Robu.in](https://robu.in/product/rc0402jr-07100rl-yageo-res-thick-film-0402-100-ohm-5-0-063w1-16w-%25c2%25b1100ppm-c-pad-smd-t-r/) | ₹0.07 | INR | ₹21.98 |
-| 144 | 5.1k ohm resistor | DONE | [Robu.in](https://robu.in/product/rc0402fr-075k1l-yageo-smd-chip-resistor/) | ₹0.14 | INR | ₹20.16 |
-| 4 | 12MHz Surface Mount Crystal | DONE | [Robu.in](https://robu.in/product/cm4012m00008001-huaxindianzi/) | ₹18.00 | INR | ₹72.00 |
-| 2 | W25Q128JVSIQ flash 16mb memory chip | DONE | [Sharvi](https://sharvielectronics.com/product/w25q128-flash-chip-128mbit-16mb-soic-8-package/) | ₹168.25 | INR | ₹336.50 |
-| 4 | switches | DONE | [Robu.in](https://robu.in/product/tsa010a2026b-bzcn-3mm-2mm-50ma-round-button-standing-paste-3-9mm-260gf-12v-smd-tactile-switches-rohs/) | ₹4.00 | INR | ₹16.00 |
-| 2 | RP2040 | DONE | [Robu.in](https://robu.in/product/raspberry-pi-rp2040/) | ₹64.00 | INR | ₹128.00 |
-| 2 | RF-switch - PE4259 | DONE | [Sharvi](https://sharvielectronics.com/product/4259-63-spdt-high-power-ultracmos-10mhz-to-3-0ghz-rf-switch-ic-sc-70-6-package/) | ₹56.00 | INR | ₹112.00 |
-| 2 | Lora Antenna 915mhz | DONE | [Robu.in](https://robu.in/product/lora-antenna-915mhz/) | ₹79.00 | INR | ₹158.00 |
-| 2 | USB-C-16P- | DONE | [Sharvi](https://sharvielectronics.com/product/16-pin-c-type-usb-connector-smd-package/) | ₹17.45 | INR | ₹34.90 |
-| 2 | AP2112K-3.3TRG1 -USB step down | DONE | [Sharvi](https://sharvielectronics.com/product/ap2112k-3-3trg1-3-3v-600ma-ldo-voltage-regulator-sot-25-5-package/) | ₹18.46 | INR | ₹36.92 |
-| 2 | 32Mhz crystal | DONE | [Sharvi](https://sharvielectronics.com/product/32mhz-10pf-%c2%b110ppm-tolerance-r2520-32-000-10-f-1010-tr-ns8-smd-crystal-2-50mmx2mm-package/) | ₹16.65 | INR | ₹33.30 |
-| 1 | Mouser International Express Shipping | DONE | [Mouser](https://www.mouser.in) | $20.00 | USD | $20.00 |
-| - | **GRAND TOTAL (INR)** | DONE | - | - | **INR** | **₹1,456.16** |
-| - | **GRAND TOTAL (USD)** | DONE | - | - | **USD** | **$48.07** |
+| QTY | NAME | STATUS | LINK | PRICE_EACH ($) | TOTAL_PRICE ($) |
+|---:|:---|:---|:---|---:|---:|
+| 1 | PCB | DONE | [LionCircuits](https://www.lioncircuits.com/quote) | $28.07 | $28.07 |
+| 30 | 100nF 0402 | DONE | [Robu.in](https://robu.in/product/0402b104j250nt-fh-25v-100nf-x7r%C2%B15-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/) | $0.0081 | $0.24 |
+| 72 | 15pF 50V 0402 SMD | DONE | [Robu.in](https://robu.in/product/15-pf-50v-0402-smd-multilayer-ceramic-capacitors-cc0402jrnpo9bn150-yageo-pack-of-20/) | $0.0034 | $0.24 |
+| 76 | 0.1uf Capacitor SMD:C 0402 | DONE | [Robu.in](https://robu.in/product/1uf-capacitor-smdc-0402-pack-of-50/) | $0.0032 | $0.25 |
+| 32 | 16V 470nF X7R±10% 0402 | DONE | [Robu.in](https://robu.in/product/grm155r71c474ke01d-murata-16v-470nf-x7r%C2%B110-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/) | $0.0078 | $0.25 |
+| 54 | 47 pF 50V 0402 | DONE | [Robu.in](https://robu.in/product/47-pf-50v-0402-smd-multilayer-ceramic-capacitors-cc0402jrnpo9bn470-yageo-pack-of-20/) | $0.0046 | $0.25 |
+| 20 | 39pF 25V 0402 | DONE | [Robu.in](https://robu.in/product/mc0402n390k250ct-murata-smd-multilayer-ceramic-capacitor-39-pf-25-v-0402-1005-metric-%c2%b1-10-c0g-np0-mc/) | $0.0163 | $0.33 |
+| 60 | 3.3 pF 50 0402 | DONE | [Robu.in](https://robu.in/product/0402hq3r3c500nt-fh-smd-multilayer-ceramic-capacitor-3-3-pf-50-v-0402-1005-metric-%25c2%25b1-0-25pf-c0g/) | $0.0079 | $0.47 |
+| 2 | 1nF 0402 | DONE | [Sharvi](https://sharvielectronics.com/product/1nf-1000pf-50v-capacitor-5-tolerance-cc0402krx7r9bb102-0402-package/) | $0.0163 | $0.03 |
+| 4 | 10uF 0402 | DONE | [Sharvi](https://sharvielectronics.com/product/10uf-50v-capacitor-10-tolerance-0402-package/) | $0.0389 | $0.16 |
+| 4 | male header | DONE | [Robu.in](https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/) | $0.1078 | $0.43 |
+| 2 | 15uH L0402 | DONE | [Sharvi](https://sharvielectronics.com/product/mlz1608n150lt000-15-%c2%b5h-250ma-shielded-multilayer-inductor-with-%c2%b120-tolerance-0603-package/) | $0.0772 | $0.15 |
+| 2 | 0402 47nH | DONE | [Sharvi](https://sharvielectronics.com/product/lqw15an47nj00d-47nh-210ma-power-inductor-with-%c2%b15-tolerance-0402-package/) | $0.0832 | $0.17 |
+| 2 | 0900FM15D0039001E Balun | DONE | [Mouser](https://www.mouser.in/en/ProductDetail/Johanson-Technology/0900FM15D0039001E?qs=jRuttqqUwMQquGokVtFFxg%3D%3D) | $0.5629 | $1.13 |
+| 16 | 9.1nH L0402 | DONE | [Robu.in](https://robu.in/product/lqg15hn9n1j02d-murata-electronics-500ma-9-1nh-%25c2%25b15-270m%25cf%2589-0402-inductors-smd-rohs/) | $0.0176 | $0.28 |
+| 2 | 1k ohm L0402 | DONE | [Sharvi](https://sharvielectronics.com/product/1k-ohm-350ma-100-mhz-ferrite-beads-blm15ax102sn1d-0402-package/) | $0.2635 | $0.53 |
+| 126 | 1k ohm R0402 | DONE | [Robu.in](https://robu.in/product/1k-resistor-smdr-0402-pack-of-50/) | $0.0019 | $0.24 |
+| 300 | 27.4ohm 0402 | DONE | [Robu.in](https://robu.in/product/rc0402fr-0727r4l-yageo-62-5mw-thick-film-resistors-50v-%25c2%25b1100ppm-%25e2%2584%2583-%25c2%25b11-27-4%25cf%2589-0402-chip-resistor-surface-mount-rohs/) | $0.0010 | $0.29 |
+| 100 | 10k ohm 0402 | DONE | [Robu.in](https://robu.in/product/10k-resistor-smdr-0402-pack-of-50/) | $0.0040 | $0.40 |
+| 314 | 100ohm 0402 | DONE | [Robu.in](https://robu.in/product/rc0402jr-07100rl-yageo-res-thick-film-0402-100-ohm-5-0-063w1-16w-%25c2%25b1100ppm-c-pad-smd-t-r/) | $0.0008 | $0.26 |
+| 144 | 5.1k ohm resistor | DONE | [Robu.in](https://robu.in/product/rc0402fr-075k1l-yageo-smd-chip-resistor/) | $0.0017 | $0.24 |
+| 4 | 12MHz Surface Mount Crystal | DONE | [Robu.in](https://robu.in/product/cm4012m00008001-huaxindianzi/) | $0.2156 | $0.86 |
+| 2 | W25Q128JVSIQ flash 16mb memory chip | DONE | [Sharvi](https://sharvielectronics.com/product/w25q128-flash-chip-128mbit-16mb-soic-8-package/) | $2.0150 | $4.03 |
+| 4 | switches | DONE | [Robu.in](https://robu.in/product/tsa010a2026b-bzcn-3mm-2mm-50ma-round-button-standing-paste-3-9mm-260gf-12v-smd-tactile-switches-rohs/) | $0.0479 | $0.19 |
+| 2 | RP2040 | DONE | [Robu.in](https://robu.in/product/raspberry-pi-rp2040/) | $0.7665 | $1.53 |
+| 2 | RF-switch - PE4259 | DONE | [Sharvi](https://sharvielectronics.com/product/4259-63-spdt-high-power-ultracmos-10mhz-to-3-0ghz-rf-switch-ic-sc-70-6-package/) | $0.6707 | $1.34 |
+| 2 | Lora Antenna 915mhz | DONE | [Robu.in](https://robu.in/product/lora-antenna-915mhz/) | $0.9461 | $1.89 |
+| 2 | USB-C-16P- | DONE | [Sharvi](https://sharvielectronics.com/product/16-pin-c-type-usb-connector-smd-package/) | $0.2090 | $0.42 |
+| 2 | AP2112K-3.3TRG1 -USB step down | DONE | [Sharvi](https://sharvielectronics.com/product/ap2112k-3-3trg1-3-3v-600ma-ldo-voltage-regulator-sot-25-5-package/) | $0.2211 | $0.44 |
+| 2 | 32Mhz crystal | DONE | [Sharvi](https://sharvielectronics.com/product/32mhz-10pf-%c2%b110ppm-tolerance-r2520-32-000-10-f-1010-tr-ns8-smd-crystal-2-50mmx2mm-package/) | $0.1994 | $0.40 |
+| 1 | Mouser International Express Shipping | DONE | [Mouser](https://www.mouser.in) | $20.00 | $20.00 |
+| - | **GRAND TOTAL** | **DONE** | - | - | **$65.51** |
+
+
 ## License
 This project is licensed under **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial). 
 You are free to build and modify this board for personal use, but commercial production or selling of this project is strictly prohibited.
