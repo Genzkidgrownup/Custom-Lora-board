@@ -241,7 +241,7 @@ Timelapse = https://lapse.hackclub.com/timelapse/7t59Urt1Tlwv
 
 **Total time spent: 1 hours and 30 minutes**
 
-# 29 October: Designed part 2 of SCHEMATIC
+# 7th november: Fixed data pins length
 
 When i was making a Devboard i realized that in Loraboard i made a mistake that the DP and DM length of wire should be same to RP2040 
 So what i did is i re routed the Type C - receptable part mainly the DP and DM i routed so the difference of length between them is less than 1.27mm 
