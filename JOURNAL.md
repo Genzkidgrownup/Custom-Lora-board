@@ -241,3 +241,14 @@ Timelapse = https://lapse.hackclub.com/timelapse/7t59Urt1Tlwv
 
 **Total time spent: 1 hours and 30 minutes**
 
+# 29 October: Designed part 2 of SCHEMATIC
+
+When i was making a Devboard i realized that in Loraboard i made a mistake that the DP and DM length of wire should be same to RP2040 
+So what i did is i re routed the Type C - receptable part mainly the DP and DM i routed so the difference of length between them is less than 1.27mm 
+My difference came to be 0.076mm which is quite an excellent length to go with so i ended my lapse uploaded my files to github.
+Lapse =https://lapse.hackclub.com/timelapse/jfA8G8Je3vl_
+
+<img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/a5ff2589-aceb-4346-8bbf-0afc833d6b38" />
+
+
+**Total time spent: 25 minutes**
